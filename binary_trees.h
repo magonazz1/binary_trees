@@ -66,5 +66,5 @@ int check_if_complete(const binary_tree_t *tree, size_t index, size_t size);
 bst_t *bst_search(const bst_t *tree, int value);
 bst_t *min_value(bst_t *node);
 int binary_tree_is_avl(const binary_tree_t *tree);
-
+avl_t *avl_insert(avl_t **tree, int value);
 #endif
