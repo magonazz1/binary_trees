@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-
+#include <limits.h>
 /**
  * binary_tree_is_avl - function that Checks if binary tree is a valid AVL
  *
