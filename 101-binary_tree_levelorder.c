@@ -6,7 +6,8 @@ int tree_height(const binary_tree_t *tree);
 int get_height(const binary_tree_t *tree);
 
 /**
- * binary_tree_levelorder - function to traveres binary tree using level-order traversal
+ * binary_tree_levelorder - function to traveres binary tree using
+ *				level-order traversal
  *
  * @tree: Pointer to the root node of the tree to check
  *
